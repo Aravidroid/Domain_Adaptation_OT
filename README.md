@@ -175,5 +175,3 @@ If you use this dataset or code in academic work, please cite:
 
 ## ⭐ Final Note
 This project demonstrates that **class-conditional Optimal Transport** can significantly reduce domain shift under challenging conditions and serves as a clean, interpretable reference implementation for classical domain adaptation.
-
-This project demonstrates that **class-conditional Optimal Transport** can significantly reduce domain shift under challenging conditions and serves as a clean, interpretable reference implementation for classical domain adaptation.
