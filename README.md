@@ -35,7 +35,7 @@ We compare three settings:
 - Align overall source and target distributions using Sinkhorn OT
 - Ignores class structure
 
-### 3️⃣ Class-wise Optimal Transport (Oracle)
+### 3️⃣ Class-wise Optimal Transport
 - Perform Sinkhorn OT **within each class**
 - Aligns source digit *c* to target digit *c*
 - Represents an **upper bound** on adaptation performance (uses target labels)
